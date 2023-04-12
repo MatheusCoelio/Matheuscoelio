@@ -7,15 +7,21 @@ Sou um estudande de Análise e desenvolvimento de sistemas na Faculdade Uniassel
 Atualmente estou em busca de expêriencias na área de desenvolvimento de Software, já trabalhei com atendimen<br>
 to ao publico e auxiliar financeiro.
 
-### Conhecimentos de programação:
+### Conhecimentos de programação: 
+                                        
 - HTML
 - CSS
 - JAVASCRIPT
 - MYSQL
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-          
+ <br> 
+ <br>
+![Matheuscoelio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscoelio&theme=transparent_icons=true)     
+![Matheuscoelio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoelio&layout=compact&langs_count=7&theme=transparent)
 
+
+<br>
 <hr>
 Aqui no meu Github irei postar alguns de meus projetos que estou desenvolvendo, espero que gostem!!!
 
