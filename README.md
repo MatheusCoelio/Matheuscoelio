@@ -17,8 +17,8 @@ to ao publico e auxiliar financeiro.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
  <br> 
  <br>
-![Matheuscoelio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscoelio&theme=transparent_icons=true)     
-![Matheuscoelio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoelio&layout=compact&langs_count=7&theme=transparent)
+![Matheuscoelio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscoelio&theme=github_dark)     
+![Matheuscoelio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoelio&layout=compact&langs_count=7&theme=github_dark)
 
 
 <br>
