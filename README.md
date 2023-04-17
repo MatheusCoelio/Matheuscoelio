@@ -22,7 +22,7 @@ to ao publico e auxiliar financeiro.
  <hr>
  
  ### Estatísticas do Github
- <img src="https://github-readme-stats.vercel.app/api?username=Matheuscoelio&theme=github_dark" width="400" height="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoelio&layout=compact&langs_count=7&theme=github_dark" width="400" height="400" />
+![Matheuscoelio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuscoelio&theme=github_dark) ![Matheuscoelio's GitHubstats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoelio&layout=compact&langs_count=7&theme=github_dark )
 <hr>
 Aqui no meu Github irei postar alguns de meus projetos que estou desenvolvendo, espero que gostem!!!
 
